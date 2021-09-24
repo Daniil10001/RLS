@@ -1,0 +1,8 @@
+{
+  "Editor": {
+    "file_extension_modes": {
+      ".py": "Python",
+      ".txt": "C++"
+    }
+  }
+}
