@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\AICUP",
+  "password": false,
+  "pid": 8888,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "4373ba96a20fbfcfbcdb092c89a3e5254380b0013694eb4c",
+  "url": "http://localhost:8888/"
+}
